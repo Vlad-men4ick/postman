@@ -1,3 +1,4 @@
+запрос делал по URL: https://blog.kata.academy/api
 {
     "user": {
         "username": "vladis",
